@@ -1,4 +1,4 @@
-# C++a
+# C++
 Programa básico em C++
 
 O usuário deve entrar com o tempo em segundos.
